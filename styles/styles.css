@@ -12,22 +12,25 @@ body{
 	padding:20%;
 }
 
-
-#3{
+#three{
 	border-radius: 25px;
 	padding:5%;
-	background-color: #FFFFFF;
+	background-color: #FFF;
 	flex-direction:column;
 	display:flex;
 }
 
 #2{
-	justify-content:space-evenly;
+	color:#1877F2;
+	text-color:white;
 }
 
 a{
 	color:#1877F2;
 	text-decoration: none;
+}
+#head{
+	color:#1877F2;
 }
 
 #5{
